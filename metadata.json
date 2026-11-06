@@ -1,0 +1,6 @@
+{
+  "name": "BB Travels - Luxury Bus Booking & Fleet",
+  "description": "Official online booking platform for BB Travels featuring transparent bus seat visualization, dynamic passenger seating, instant ticket booking, and genuine fleet gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
